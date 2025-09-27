@@ -36,6 +36,14 @@ A modern, accessible React component library built with TypeScript, Tailwind CSS
 - Node.js 18+ 
 - npm or yarn
 
+  
+### Screenshots
+
+<img width="1893" height="860" alt="image" src="https://github.com/user-attachments/assets/2308d6eb-4fef-410b-a074-4facf981ab4c" />
+<img width="1892" height="739" alt="image" src="https://github.com/user-attachments/assets/3617f308-db00-4ae4-936e-7b618144cdb2" />
+<img width="1889" height="520" alt="image" src="https://github.com/user-attachments/assets/7d413847-24f0-4357-b1c4-b986a5568439" />
+
+
 ### Installation
 
 ```bash
